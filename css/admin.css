@@ -1,0 +1,17 @@
+.counter {
+	color: red;
+	font-weight: bold;
+}
+.counter-meta  img{
+	float: left;
+	margin-right: 10px;
+}
+.counter-meta > p {
+	margin-left: 40px;
+}
+.counter-meta .disable {
+	color: orange;
+}
+.counter-meta .enable {
+	color: green;
+}
